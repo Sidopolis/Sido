@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/git/contrib/buildsystems",
+    "cmake.configureOnOpen": false
+}
